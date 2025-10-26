@@ -1,3 +1,4 @@
+#Dynamic Image Slider
 Final Demo Walkthrough
 The Dynamic Image Slider project demonstrates an interactive front-end web component where users can view images that automatically transition with animations.
 
